@@ -31,7 +31,7 @@ In this method we have used a combination of sampling technique, i.e. cluster an
 
 
 ## Resultant Table
-|                        | Simple Random | Stratified | Systematic | Cluster | Multi-Satge |
+|                        | Simple Random | Stratified | Systematic | Cluster | Multi-Stage |
 | ---------------------- | ------------- | ---------- | ---------- | ------- | ----------- |
 | Logistic Regression    |91.01          |91.32       |79.22       |88.46    |96.00        |
 | Decision Tree          |98.50          |96.93       |90.90       |98.46    |96.00        |
